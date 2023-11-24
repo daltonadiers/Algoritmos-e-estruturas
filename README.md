@@ -1,8 +1,8 @@
 # Algoritmos-e-estruturas
 Esse repositório visa armazenar códigos utilizados para os principais problemas de estruturação de dados, algoritmos de solução e paradigmas.
 ## Sorts
-###### Disponível `Bubble sort` `Selection sort` `Insertion sort`
-###### Indisponível `Merge sort` `Quick sort` `Heap sort`
+###### Disponível `Bubble sort` `Selection sort` `Insertion sort` `Merge sort` 
+###### Indisponível `Quick sort` `Heap sort`
 ## Programação dinâmica
 ###### Disponível `Problema da mochila e relacionados`
 ## Árvores
