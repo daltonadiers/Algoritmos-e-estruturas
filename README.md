@@ -8,4 +8,5 @@ Esse repositório visa armazenar códigos utilizados para os principais problema
 ## Árvores
 ###### Indisponível `Árvore binária` `AVL`
 ## Grafos
-###### Indisponível `Dijkstra` `Floyd-Warshall` `BFS` `DFS` `Bellman-Ford` `Kruskal`
+###### Disponível `Dijkstra`
+###### Indisponível `Floyd-Warshall` `BFS` `DFS` `Bellman-Ford` `Kruskal`
